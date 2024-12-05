@@ -1,16 +1,63 @@
-# trip_planner_app
+AI-Powered Trip Planner 
+An innovative and personalized trip planning application that combines cutting-edge AI with user-friendly design. Powered by the Gemini API, this app generates custom travel plans based on user preferences, including itineraries, hotels, restaurants, and budget recommendations. Weather integration ensures you pack right for your destination!
 
-A new Flutter project.
+Features:
+Personalized Trip Plans
+Generate tailored travel plans by providing basic details like travel group, budget, and duration.
 
-## Getting Started
+Dynamic Itineraries
+View daily itineraries with customizable hotel and restaurant options.
 
-This project is a starting point for a Flutter application.
+Weather Forecast Integration
+Get up-to-date weather forecasts for your travel destination and packing recommendations.
 
-A few resources to get you started if this is your first Flutter project:
+User-Friendly Interface
+Intuitive UI with beautiful design, customizable trip details, and detailed hotel/restaurant information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+High Performance
+Leveraging Flutter's flutter_riverpod for state management and Unsplash API for fetching travel images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack 
+Frontend: Flutter (Dart)
+Backend API: Gemini API for trip planning and weather data
+State Management: Riverpod
+UI Components: Material Design, Custom Widgets
+APIs:
+Gemini API (trip planning)
+Unsplash API (image fetching)
+Weather API (forecast data)
+Getting Started 🧑‍💻
+Prerequisites
+Flutter SDK
+A valid API key for:
+Gemini API
+Unsplash API
+Weather API
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/ai-trip-planner.git
+cd ai-trip-planner
+Install dependencies:
+bash
+Copy code
+flutter pub get
+Add your API keys in the appropriate service files.
+Run the App
+bash
+Copy code
+flutter run
+Screenshots 📸
+Add some screenshots of your app in action here to give users a preview!
+
+
+License 📄
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact 📧
+Feel free to reach out for feedback or suggestions:
+
+Muhammad Shayaan
+shayanbutt561@gmail.com
+GitHub: shayaan-1
