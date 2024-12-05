@@ -1,23 +1,23 @@
-AI-Powered Trip Planner 
+**AI-Powered Trip Planner:**
 An innovative and personalized trip planning application that combines cutting-edge AI with user-friendly design. Powered by the Gemini API, this app generates custom travel plans based on user preferences, including itineraries, hotels, restaurants, and budget recommendations. Weather integration ensures you pack right for your destination!
 
-Features:
-Personalized Trip Plans
+**Features:**
+**Personalized Trip Plans**
 Generate tailored travel plans by providing basic details like travel group, budget, and duration.
 
-Dynamic Itineraries
+**Dynamic Itineraries**
 View daily itineraries with customizable hotel and restaurant options.
 
-Weather Forecast Integration
+**Weather Forecast Integration**
 Get up-to-date weather forecasts for your travel destination and packing recommendations.
 
-User-Friendly Interface
+**User-Friendly Interface**
 Intuitive UI with beautiful design, customizable trip details, and detailed hotel/restaurant information.
 
-High Performance
+**High Performance**
 Leveraging Flutter's flutter_riverpod for state management and Unsplash API for fetching travel images.
 
-Tech Stack 
+**Tech Stack** 
 Frontend: Flutter (Dart)
 Backend API: Gemini API for trip planning and weather data
 State Management: Riverpod
@@ -26,14 +26,17 @@ APIs:
 Gemini API (trip planning)
 Unsplash API (image fetching)
 Weather API (forecast data)
-Getting Started 🧑‍💻
-Prerequisites
+
+Getting Started 
+**Prerequisites**
 Flutter SDK
 A valid API key for:
 Gemini API
 Unsplash API
 Weather API
-Installation
+
+
+**Installation**
 Clone the repository:
 bash
 Copy code
@@ -48,16 +51,14 @@ Run the App
 bash
 Copy code
 flutter run
-Screenshots 📸
-Add some screenshots of your app in action here to give users a preview!
 
-
-License 📄
+**License 📄**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact 📧
+**Contact 📧**
 Feel free to reach out for feedback or suggestions:
 
+**Contact:**
 Muhammad Shayaan
 shayanbutt561@gmail.com
 GitHub: shayaan-1
